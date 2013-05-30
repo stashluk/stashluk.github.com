@@ -3,7 +3,7 @@ Overview
 
 Accomplished software engineer specializing in real-time embedded systems.
 
-+ More than 15 years of experience providing high-quality software products
++ 15+ years providing high-quality software products
 + Highly effective in environments ranging from chaotic rapid prototyping
 	projects to safety-critical SEI Level 5 Programs and FDA Qualified Systems
 + Versed in the complete product development cycle from marketing specification
@@ -14,9 +14,10 @@ Accomplished software engineer specializing in real-time embedded systems.
 Technical Summary
 =================
 
-+ __Languages__: C, C++, Python
-+ __Tools__: LTIB, OpenEmbedded, Git, Rational DOORS, Qt, Squish, Jenkins CI,
-	U-Boot, Seapine Surround, Code Sonar, CMake
++ __Languages__: C, C++, Python, Java
++ __Tools__: LTIB, OpenEmbedded, Yocto, Git, Repo, CVS, Rational DOORS, Qt,
+	Squish, Jenkins CI, U-Boot, Seapine Surround, Abraxis CodeCheck,
+	CodeSonar, GNU Make, CMake, Android AOSP
 + __Hardware__: ARM i.MX6, PowerPC MPC5200, x86, MSP430
 + __Specialties__: Real-Time Embedded GNU/Linux, Medical Devices, Motion
 	Control, Linux Kernel, Computer Vision, Sensor Integration
@@ -30,12 +31,13 @@ __Deka Research & Development Corp.__ (Manchester, NH)
 
 *Technical Staff*: February 2008-Present
 
-Performed complete life cycle development for medical device software up to FDA
-Class III. Project domains included complex electro-mechanical, fluid management,
-and computer vision systems.
+Performed complete life cycle development for medical device software including
+FDA Class III. Project domains included complex electro-mechanical, fluid
+management, and computer vision systems.
 
 + Led the way in developing and refining the software process in a large team
   (20+) setting.
++ Mentored several junior developers
 
 __DRS Codem Systems, Inc.__ (Merrimack, NH)
 
@@ -58,6 +60,7 @@ Designed, coded, tested and integrated software for the fire control component
 of the AN/SQQ-89 Anti-Submarine Warfare Combat System. Programmed in C and
 Ada95 on an HP-UX 11.0
 
++ Implemented safety-critical state machine logic for SEI Level 5 program
 + Developed scripts for automated code generation to minimize boilerplate
 
 __Raytheon Electronic Systems__ (Bedford, MA)
