@@ -127,6 +127,9 @@ $endif$
 \date{$date$}
 
 \begin{document}
+
+\pagenumbering{gobble}
+
 $if(title)$
 \maketitle
 $endif$
