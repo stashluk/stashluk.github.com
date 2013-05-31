@@ -1,7 +1,7 @@
 Overview
 ========
 
-Accomplished software engineer specializing in real-time embedded systems.
+Accomplished software engineer specializing in real-time embedded systems
 
 + 15+ years providing high-quality software products
 + Highly effective in environments ranging from chaotic rapid prototyping
@@ -33,10 +33,10 @@ __Deka Research & Development Corp.__ (Manchester, NH)
 
 Performed complete life cycle development for medical device software including
 FDA Class III. Project domains included complex electro-mechanical, fluid
-management, and computer vision systems.
+management, and computer vision systems
 
 + Led the way in developing and refining the software process in a large team
-  (20+) setting.
+  (20+) setting
 + Mentored several junior developers
 
 __DRS Codem Systems, Inc.__ (Merrimack, NH)
@@ -45,7 +45,7 @@ __DRS Codem Systems, Inc.__ (Merrimack, NH)
 
 Designed, implemented, integrated, deployed, maintained and documented
 real-time embedded servo control software for the Flexible Antenna Controller
-family of products.
+family of products
 
 + Reduced on-site integration times for prototypes from over a month to a few
   days in most cases
