@@ -1,13 +1,14 @@
-Overview
-========
+Software Engineer
+=================
 
-Accomplished software engineer specializing in real-time embedded systems
+Specializing in real-time safety-critical embedded systems
 
-+ 15+ years providing high-quality software products
 + Highly effective in environments ranging from chaotic rapid prototyping
-	projects to safety-critical SEI Level 5 Programs and FDA Qualified Systems
+  projects to SEI Level 5 Programs and FDA Class III medical device
+  qualification
 + Versed in the complete product development cycle from marketing specification
-	and requirements gathering to documentation and maintenance
+  and requirements gathering to documentation and maintenance
++ 15+ years providing high-quality software products
 
 ----
 
@@ -15,12 +16,14 @@ Technical Summary
 =================
 
 + __Languages__: C, C++, Python, Java
-+ __Tools__: LTIB, OpenEmbedded, Yocto, Git, Repo, CVS, Rational DOORS, Qt,
-	Squish, Jenkins CI, U-Boot, Seapine Surround, Abraxis CodeCheck,
-	CodeSonar, GNU Make, CMake, Android AOSP
-+ __Hardware__: ARM i.MX6, PowerPC MPC5200, x86, MSP430
++ __Tools__: Android AOSP, \r{A}ngstrom, Freescale LTIB, OpenEmbedded,
+  Yocto/Poky, Git, Repo, CVS, Seapine Surround, Qt, U-Boot, GNU Make, CMake,
+  Jenkins CI, Maven, Squish, Lint, CodeSonar, Abraxis CodeCheck, Rational
+  DOORS, Redmine
++ __Hardware__: Freescale ARM Cortex-A9 i.MX6, PowerPC MPC5200, x86, TI MSP430,
+  Qualcomm Snapdragon S4
 + __Specialties__: Real-Time Embedded GNU/Linux, Medical Devices, Motion
-	Control, Linux Kernel, Computer Vision, Sensor Integration
+  Control, Linux Kernel, Computer Vision, Sensor Integration
 
 ----
 
@@ -33,11 +36,23 @@ __Deka Research & Development Corp.__ (Manchester, NH)
 
 Performed complete life cycle development for medical device software including
 FDA Class III. Project domains included complex electro-mechanical, fluid
-management, and computer vision systems
+management, and computer vision
 
-+ Led the way in developing and refining the software process in a large team
-  (20+) setting
-+ Mentored several junior developers
++ Developed augmented vision system using OpenGL ES 2 and GLSL using live
+  textures from MIPI CSI-2 camera sensor
++ Mentored 4 junior developers
++ Refined the software process as the first developer to release a C++
+  subsystem for project in a team of 20+ developers. Designed and configured
+  subsystem CI servers
++ Implemented emergency power handling in C on TI MSP430 
++ Earned *Evolved Thinker* award for role in board bring-up for project
++ Developed Python based hardware verification, validation, calibration and
+  debugging architecture, bypassing application software to directly control
+  FPGA and NI-DAQ based measurement/control. Architecture provided on-the-fly
+  Qt based GUI for control of all I/O points. Robot Framework provided front
+  end to implement test specifications, and output logs/reports for pass/fail
+  testing
++ Modified u-boot to allow quick hardware checking for PPC processor
 
 __DRS Codem Systems, Inc.__ (Merrimack, NH)
 
@@ -79,3 +94,5 @@ Education
 =========
 
 B.A. __Physics__ (minor Mathematics), May 1997, _Cum Laude_ Boston University
+
+Graduate Electrical Engineering courses at UMass Lowell
