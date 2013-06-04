@@ -129,21 +129,18 @@ $endif$
 
 \usepackage{fancyhdr}
 \pagestyle{fancy}
+\renewcommand{\headrulewidth}{0pt}
 \pagenumbering{arabic}
-\lhead{Jeremy Stashluk}
+\lhead{}
 \chead{}
-\rhead{\tt{stashluk@gmail.com}}
-\lfoot{40 Constance St., Bedford, NH 03110}
-\cfoot{}
+\rhead{\large{$author$}}
+\lfoot{\tt{stashluk@gmail.com}}
+\cfoot{40 Constance St., Bedford, NH 03110}
 \rfoot{m: 678.587.8274}
 
 \begin{document}
 
 \pagenumbering{gobble}
-
-$if(title)$
-\maketitle
-$endif$
 
 $for(include-before)$
 $include-before$

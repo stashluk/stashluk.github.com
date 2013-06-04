@@ -1,6 +1,7 @@
 
 VARS = \
-	--variable=geometry:margin=0.75in
+	--variable=geometry:"top=1.0in, bottom=0.75in, left=0.75in, right=0.75in" \
+	--variable=author:Jeremy\ Stashluk
 
 .SUFFIXES: .md .latex 
 
