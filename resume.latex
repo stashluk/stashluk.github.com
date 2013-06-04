@@ -63,6 +63,7 @@ $if(tables)$
 $endif$
 $if(graphics)$
 \usepackage{graphicx}
+
 % We will generate all images so they have a width \maxwidth. This means
 % that they will get their normal width if they fit onto the page, but
 % are scaled down if they would overflow the margins.
@@ -125,6 +126,16 @@ $if(title)$
 $endif$
 \author{$for(author)$$author$$sep$ \and $endfor$}
 \date{$date$}
+
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\pagenumbering{arabic}
+\lhead{Jeremy Stashluk}
+\chead{}
+\rhead{\tt{stashluk@gmail.com}}
+\lfoot{40 Constance St., Bedford, NH 03110}
+\cfoot{}
+\rfoot{m: 678.587.8274}
 
 \begin{document}
 

@@ -1,7 +1,6 @@
 
 VARS = \
-	--variable=title:Jeremy\ Stashluk \
-	--variable=geometry:margin=1.0in
+	--variable=geometry:margin=0.75in
 
 .SUFFIXES: .md .latex 
 
