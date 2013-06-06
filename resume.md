@@ -1,7 +1,7 @@
 Real-Time Embedded Safety-Critical Software Engineering
 =======================================================
 
-Versed in complete lifecycle development from requirements gathering to
+Versed in complete life-cycle development from requirements gathering to
 maintenance in environments ranging from chaotic rapid prototyping to SEI Level
 5 and FDA Class III medical devices
 
@@ -57,4 +57,4 @@ Theater High Altitude Area Defense / Theater Missile Defense software
 Education
 =========
 
-B.A. __Physics__ (minor Mathematics), May 1997, _With Honors_ Boston University
+B.A. __Physics__ (minor Mathematics), May 1997, Boston University _With Honors_

@@ -131,11 +131,11 @@ $endif$
 \pagestyle{fancy}
 \renewcommand{\headrulewidth}{0pt}
 \pagenumbering{arabic}
-\lhead{}
+\lhead{\large{$author$}}
 \chead{}
-\rhead{\large{$author$}}
-\lfoot{\tt{stashluk@gmail.com}}
-\cfoot{40 Constance St., Bedford, NH 03110}
+\rhead{\tt{stashluk@gmail.com}}
+\lfoot{40 Constance St., Bedford, NH 03110}
+\cfoot{}
 \rfoot{m: 678.587.8274}
 
 \begin{document}
