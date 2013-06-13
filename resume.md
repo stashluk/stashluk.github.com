@@ -6,7 +6,7 @@ maintenance in environments ranging from chaotic rapid prototyping to SEI Level
 5 and FDA Class III medical devices
 
 + __Languages__: C, C++, Python, Java
-+ __Tools__: Android AOSP, \r{A}ngstrom, LTIB, OpenEmbedded, Yocto/Poky, Git,
++ __Tools__: Android AOSP, Angstrom, LTIB, OpenEmbedded, Yocto/Poky, Git,
   CVS, Seapine Surround, Qt, U-Boot, GNU Make, CMake, Jenkins, Maven, Squish,
   Lint, CodeSonar, Abraxis CodeCheck, Rational DOORS, Redmine
 + __Hardware__: i.MX6, PowerPC MPC5200, x86, TI MSP430, Qualcomm Snapdragon S4
