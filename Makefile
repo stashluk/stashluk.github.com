@@ -11,7 +11,7 @@ PDF_VARS = \
 %.odt: %.md reference.odt
 	pandoc --reference-odt=$(word 2,$^) -o $@ $(DOCX_VARS) $<
 
-all: resume.pdf resume.docx resume.odt
+all: resume.pdf resume.odt
 
 clean:
 	rm -f *.pdf
