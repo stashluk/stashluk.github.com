@@ -16,7 +16,7 @@ maintenance in environments ranging from chaotic rapid prototyping to SEI Level
 Professional Experience
 =======================
 
-__Deka R&D Corp.__ *Technical Staff* February 2008-Present (Manchester, NH)
+__Deka R&D Corp.__ *Software Engineer* February 2008-Present (Manchester, NH)
 
 Developed FDA Class III medical device software. Project domains included
 electro-mechanical, fluid management, and computer vision
