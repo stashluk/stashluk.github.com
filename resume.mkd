@@ -11,7 +11,7 @@ maintenance in environments ranging from chaotic rapid prototyping to SEI Level
   Lint, MATLAB, CodeSonar, Abraxis CodeCheck, Rational DOORS, Redmine
 + __Hardware__: i.MX6, PowerPC MPC5200, x86, TI MSP430, Qualcomm Snapdragon S4
 + __Specialties__: Real-Time Embedded GNU/Linux, Medical Devices, Motion
-  Control, Computer Vision, Sensor Integration
+  Control, Computer Vision, Sensor Integration, Data Analysis
 
 Professional Experience
 =======================
@@ -21,6 +21,8 @@ __Deka R&D Corp.__ *Software Engineer* February 2008-Present (Manchester, NH)
 Developed FDA Class III medical device software. Project domains included
 electro-mechanical, fluid management, and computer vision
 
++ Feedback control design, development, and troubleshooting for next generation
+  micro-dispensing system
 + Developed augmented vision system using OpenGL ES 2 and GLSL using MIPI camera
 + Refined the software process as the first developer to release a C++
   subsystem for project in a team of 20+ developers. Designed and configured
