@@ -100,7 +100,7 @@ $if(strikeout)$
 \pdfstringdefDisableCommands{\renewcommand{\sout}{}}
 $endif$
 \setlength{\parindent}{0pt}
-\setlength{\parskip}{6pt plus 2pt minus 1pt}
+\setlength{\parskip}{4pt}
 \setlength{\emergencystretch}{3em}  % prevent overfull lines
 $if(numbersections)$
 $else$
@@ -129,7 +129,7 @@ $endif$
 
 \usepackage{fancyhdr}
 \pagestyle{fancy}
-\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\headrulewidth}{1pt}
 \pagenumbering{arabic}
 \lhead{40 Constance St.\\Bedford, NH 03110}
 \chead{\huge{$author$}}
@@ -139,8 +139,6 @@ $endif$
 \rfoot{}
 
 \begin{document}
-
-\pagenumbering{gobble}
 
 $for(include-before)$
 $include-before$
