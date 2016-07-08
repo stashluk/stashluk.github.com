@@ -1,32 +1,24 @@
----
-author: Jeremy Stashluk
-geometry: margin=1in
-header-includes:
-    - \usepackage{fancyhdr,lastpage}
-    - \pagestyle{fancy}
-    - \lhead{40 Constance St.\\Bedford, NH}
-    - \chead{\huge{Jeremy Stashluk}}
-    - \rhead{\tt{stashluk@gmail.com}\\678.587.8274}
-    - \cfoot{\thepage of \pageref{LastPage}}
----
-
-Embedded Software and Control Systems
-=====================================
+# Embedded Software and Feedback Control Systems
 
 Engineer with practical hands-on experience implementing control and integrity
 algorithms for real-time embedded software on medical and other safety-critical
 devices.
 
-+ __Languages__: C, C++, Python, Modelica, MATLAB
-+ __Tools__: Pandas, Flask, Yocto/Poky, Git, CVS, Seapine Surround, Seapine
-  TestTrack, Qt, U-Boot, GNU Make, CMake, Jenkins, Lint, Code Collaborator,
-  CodeSonar, Coverity, CodeCheck, Rational DOORS, SciTools Understand,
-  Heirarchical (Harel) Statecharts, JIRA
-+ __Domains__: Medical Devices, Real-Time Embedded GNU/Linux, Motion
++ __Problem Domains__: Medical Devices, Real-Time Embedded GNU/Linux, Motion
   Control, Fluid Management, Computer Vision, Sensor Integration, Data Analysis
+  and Visualization
++ __Software Development__: C, C++, Python, U-Boot, Qt, Heirarchical (Harel)
+  Statecharts, Git, CVS, Seapine Surround, Yocto/Poky
++ __Static Analysis__: CodeSonar, Coverity, PC-Lint, SciTools CodeCheck &
+  Understand
++ __Build and Continuous Integration__: GNU Make, CMake, Jenkins, Ansible
++ __Visualization and Modelling__: Python Pandas & Matplotlib,
+  OpenModelica, MATLAB, AWS IoT, AWS ELK Stack (Elasticsearch, Logstash,
+  Kibana), Javascript and Highcharts
++ __Process and Communication__: Seapine TestTrack, Code Collaborator, Rational
+  DOORS DXL, Atlassian Hipchat & JIRA
 
-Professional Experience
-=======================
+# Professional Experience
 
 __Deka R&D Corp.__ *Lead Control Systems Engineer* January 2014-Present (Manchester, NH)
 
@@ -35,24 +27,43 @@ __Deka R&D Corp.__ *Lead Control Systems Engineer* January 2014-Present (Manches
 + Prepared sensor and actuator embedded software for IEC 60601 compliant
   verification and validation
 + Deployed advanced time-series data visualization web application for real
-  time device performance analysis and troubleshooting
+  time device performance analysis, troubleshooting, and device fleet
+  monitoring
 
 __Deka R&D Corp.__ *Software Engineer* February 2008-January 2014 (Manchester, NH)
 
 + Implemented augmented vision system using OpenGL ES 2 and GLSL using MIPI
-  camera, including GNU/Linux kernel drivers
-+ Developed FDA Class III medical device software. Project domains included
-  electro-mechanical, and fluid management. C on TI MSP430 and C++ on PowerPC
-+ Earned *Evolved Thinker* award for role in hardware bring-up. Created Python
-  based calibration and debug architecture to manipulate FPGA and NI-DAQ based
-  measurement/control. Provided on-the-fly Qt based GUI control of I/O.
-  Implemented test specifications, and logs/reports for pass/fail testing
+  camera, including GNU/Linux kernel drivers.
++ Vivia Home Hemodialysis Device. Developed FDA Class III medical device
+  software. Project domains included electro-mechanical, and fluid management.
+  C on TI MSP430 and C++ on PowerPC
++ Earned *Evolved Thinker* award for role in hardware bring-up of Vivia Device.
+  Created Python based calibration and debug architecture to manipulate FPGA
+  and NI-DAQ based measurement/control. Provided on-the-fly Qt based GUI
+  control of I/O. Implemented test specifications, and logs/reports for
+  pass/fail testing
 
 __DRS Codem Systems, Inc.__ *Software Engineer* Mar. 2000-Oct. 2007 (Merrimack, NH)
 
-+ Developed servo control software for the Flexible Antenna Controller products
-+ Reduced on-site integration times from a month to a few days in several cases
-+ Introduced use version control and automated build scripts to the department
++ Developed servo control software for several antenna controller products
+	+ Ku-38V Low-Profile Communications On-the-Move (COTM) Antenna System.
+	  Stabilized gimbal for communications while moving on a highly dynamic
+      platform such as a small watercraft or off-road vehicle.
+	+ X122-S 1.2 m 3-Axis Shipboard SATCOM System. Satellite communication
+	  system using third axis cross-level design, allowing the antenna to
+	  dynamically stabilize at high-sea, maintaining a connection at both low
+      and high elevation look angles.
+	+ Astronics Aerosat FliteStream aircraft fuselage and tail mounted
+	  broadband internet and TV antenna controllers. ARINC data from the flight
+	  control system provides supplemental orentation feedback to stabilize
+      this antenna.
+	+ Flexible Antenna Controller (FAC) for refurbishing stationary and
+	  deployable antennas. The FAC provides servo and I/O control for larger
+	  (2 meter+) aperture antennae to support tracking of Geosynchronous, MEO
+	  and LEO satellites. Reduced on-site integration times from a month to a
+      few days in several cases.
++ Introduced use of version control and automated build scripts to the
+  department
 
 __Lockheed Martin, OR&SS__ *Associate Software Engineer* Feb. 1999-Mar. 2000 (Liverpool, NY)
 
@@ -67,7 +78,21 @@ Theater High Altitude Area Defense / Theater Missile Defense software
 
 + Maintained and documented test & calibration user interface
 
-Education
-=========
+# Education
 
 B.A. __Physics__ (minor Mathematics), May 1997, Boston University _With Honors_
+
+---
+author: Jeremy Stashluk
+mainfont: Baskerville
+fontsize: 12pt
+geometry: margin=1.25in
+header-includes:
+    - \usepackage{fancyhdr,lastpage}
+    - \pagestyle{fancy}
+    - \lhead{40 Constance St.\\Bedford, NH}
+    - \chead{\huge{Jeremy Stashluk}}
+    - \rhead{\tt{stashluk@gmail.com}\\678.587.8274}
+    - \cfoot{\thepage \space of \pageref{LastPage}}
+---
+
