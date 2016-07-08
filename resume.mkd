@@ -1,15 +1,27 @@
+---
+author: Jeremy Stashluk
+geometry: margin=1in
+header-includes:
+    - \usepackage{fancyhdr,lastpage}
+    - \pagestyle{fancy}
+    - \lhead{40 Constance St.\\Bedford, NH}
+    - \chead{\huge{Jeremy Stashluk}}
+    - \rhead{\tt{stashluk@gmail.com}\\678.587.8274}
+    - \cfoot{\thepage of \pageref{LastPage}}
+---
+
 Embedded Software and Control Systems
 =====================================
 
-Engineer with practical experience implementing control and integrity
-algorithms for real-time safety-critical embedded software on medical and other
+Engineer with practical hands-on experience implementing control and integrity
+algorithms for real-time embedded software on medical and other safety-critical
 devices.
 
 + __Languages__: C, C++, Python, Modelica, MATLAB
 + __Tools__: Pandas, Flask, Yocto/Poky, Git, CVS, Seapine Surround, Seapine
   TestTrack, Qt, U-Boot, GNU Make, CMake, Jenkins, Lint, Code Collaborator,
-  CodeSonar, Coverity, Abraxis CodeCheck, Rational
-  DOORS, SciTools Understand, Heirarchical Statecharts
+  CodeSonar, Coverity, CodeCheck, Rational DOORS, SciTools Understand,
+  Heirarchical (Harel) Statecharts, JIRA
 + __Domains__: Medical Devices, Real-Time Embedded GNU/Linux, Motion
   Control, Fluid Management, Computer Vision, Sensor Integration, Data Analysis
 
