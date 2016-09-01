@@ -7,8 +7,8 @@ devices.
 + __Problem Domains__: Medical Devices, Real-Time Embedded GNU/Linux, Motion
   Control, Fluid Management, Computer Vision, Sensor Integration, Data Analysis
   and Visualization
-+ __Software Development__: C, C++, Python, U-Boot, Qt, Heirarchical (Harel)
-  Statecharts, Git, CVS, Seapine Surround, Yocto/Poky
++ __Software Development__: C, C++, Python, U-Boot, Qt, Hierarchical (Harel)
+  Statecharts, Git, CVS, Seapine Surround, Yocto/Poky, VectorCAST
 + __Static Analysis__: CodeSonar, Coverity, PC-Lint, SciTools CodeCheck &
   Understand
 + __Build and Continuous Integration__: GNU Make, CMake, Jenkins, Ansible
