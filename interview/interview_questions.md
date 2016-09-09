@@ -52,8 +52,6 @@ standing up for myself and my team under adversity.
 I don't know enough about this job, yet. As I understand, it is your task to
 sell it to me.
 
-# Questions for Thrive Biosciences
+# Questions for Generic Company
 
-- Tell me more about the applications of non-microbial cell culture.
-- How does your product facilitate the cell culture process?
-- Tell me more about your sensors and actuators
+- What amount of signing authority should I expect?
