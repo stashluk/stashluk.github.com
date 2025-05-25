@@ -12,7 +12,8 @@ high-performance engineering teams.
 
  - **Domains:** Robotics, Medical Devices, Embedded Systems, Synthetic Aperture
    Radar, Real-Time Linux, Motion Control, Sensor Fusion
- - **Languages & Tools:** C, C++, Python, Git, Yocto/Poky, VectorCAST
+ - **Languages & Tools:** C, C++, Python, Git, FreeRTOS, Yocto/Poky, CodeSonar,
+   VectorCAST
  - **Control & Analysis:** PID Controllers, Sensor Fusion, Python (Pandas,
    Matplotlib), OpenModelica
  - **Build and CI:** GitLab CI/CD, GNU Make, CMake, Jenkins
@@ -30,7 +31,7 @@ high-performance engineering teams.
 _Jun 2022-Present_
 
  - Developed and refined manipulation capabilities for Alphabot
-   omni-directional mobile robots used in micro-fulfillment centers.
+   omni-directional mobile robots for micro-fulfillment centers.
  - Designed and tuned PID controllers; integrated with motor drives and
    real-time sensor fusion for enhanced stability and robustness.
  - Conducted extensive testing and simulation to validate control performance
@@ -77,7 +78,7 @@ _Feb 2008-Jan 2014_
 _Mar 2000-Oct 2007_
 
  - Designed servo control systems for mobile/stationary satellite antenna
-   products used on vehicles, ships, and aircraft.
+   products for vehicles, ships, and aircraft.
  - Spearheaded the adoption of version control and automated build systems.
  - Reduced on-site integration times from a month to a few days with modular
    controller solutions.
