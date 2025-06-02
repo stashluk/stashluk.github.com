@@ -24,11 +24,9 @@ high-performance engineering teams.
 
 # Experience
 
-## Symbotic (formerly Walmart Advanced Systems & Robotics / Alert Innovation)
+## [Symbotic](https://symbotic.com) \hspace*{\fill} ![](favicon/symbotic.ico) \newline Walmart Advanced Systems & Robotics \hspace*{\fill} ![](favicon/walmart.ico) \newline Alert Innovation \hspace*{\fill} ![](favicon/channels4_profile.jpg){width=24}
 
-### Senior Software Engineer
-
-_Jun 2022-Present_
+### Senior Software Engineer \hspace*{\fill}  _Jun 2022 – Present_
 
  - Developed and refined manipulation capabilities for Alphabot
    omni-directional mobile robots for micro-fulfillment centers.
@@ -39,30 +37,27 @@ _Jun 2022-Present_
  - Reduced handling error rate by 70% for 19 sites, each with up to 200 mobile
    robots.
 
-## Geophysical Survey Systems
+## [Geophysical Survey Systems](https://geophysical.com) \hspace*{\fill} ![](favicon/geophysical.ico)
 
-### Embedded Software Engineer
-
-_Nov 2016-Jun 2022_
+### Embedded Software Engineer \hspace*{\fill} _Nov 2016 – Jun 2022_
 
  - Created embedded software for ground-penetrating radar systems for diverse
    applications including construction, archaeology, and geoscience.
  - Established a CI-driven build system to automate deployment and improve QA
    hand-off efficiency.
 
-## Deka Research & Development
+## [DEKA Research & Development](https://dekaresearch.com) \hspace*{\fill} ![](favicon/dekaresearch.ico)
 
-### Lead Control Systems Engineer
-_Jan 2014-Nov 2016_
+### Lead Control Systems Engineer \hspace*{\fill} _Jan 2014 – Nov 2016_
 
  - Led team of engineers and technicians to develop microliter-scale pumping
    and sensing devices.
- - Delivered IEC 60601-compliant embedded software for medical devices.
+ - Delivered IEC 60601 / IEC 62304 – compliant embedded software for medical
+   devices.
  - Deployed real-time data visualization tools for performance analysis and
    fleet diagnostics.
 
-### Software Engineer
-_Feb 2008-Jan 2014_
+### Software Engineer \hspace*{\fill} _Jan 2008 – Jan 2014_
 
  - Built augmented vision system using OpenGL ES 2, GLSL, and custom Linux
    kernel drivers.
@@ -71,11 +66,9 @@ _Feb 2008-Jan 2014_
  - Received "Evolved Thinker" award for key contributions during hardware
    bring-up.
 
-## DRS Codem Systems
+## [DRS](https://leonardodrs.com) Codem Systems \hspace*{\fill} ![](favicon/leonardodrs.ico)
 
-### Software Engineer
-
-_Mar 2000-Oct 2007_
+### Software Engineer \hspace*{\fill} _Mar 2000 – Oct 2007_
 
  - Designed servo control systems for mobile/stationary satellite antenna
    products for vehicles, ships, and aircraft.
@@ -83,18 +76,16 @@ _Mar 2000-Oct 2007_
  - Reduced on-site integration times from a month to a few days with modular
    controller solutions.
 
-## Lockheed Martin, Ocean Radar & Sensor Systems
-### Associate Software Engineer
+## [Lockheed Martin](https://lockheedmartin.com), Ocean Radar & Sensor Systems \hspace*{\fill} ![](favicon/lockheedmartin.ico)
 
-_Feb 1999-Mar 2000_
+### Associate Software Engineer	\hspace*{\fill} _Feb 1999 – Mar 2000_
 
  - Implemented safety-critical state machine logic for the _AN/SQQ-89
    Anti-Submarine Warfare Combat System_ using C and Ada95.
 
-## Raytheon Electronic Systems
+## [Raytheon Electronic Systems](https://rtx.com/raytheon) \hspace*{\fill} ![](favicon/raytheon.png)
 
-### Software Engineer I
-_Aug 1997-Feb 1999_
+### Software Engineer I	\hspace*{\fill} _Aug 1997 – Feb 1999_
 
  - Maintained and documented test and calibration software for the _Theater
    High Altitude Area Defense (THAAD)_ missile system.
@@ -103,8 +94,8 @@ _Aug 1997-Feb 1999_
 
 # Education
 
-**Boston University** - College of Arts and Sciences
+**[Boston University](https://bu.edu)** - [College of Arts and Sciences](https://bu.edu/cas) \hspace*{\fill} ![](favicon/bu.ico)
 
-B.A. **Physics**  (Minor in Mathematics) _Cum Laude_
+B.A. **[Physics](https://bu.edu/physics)**  (Minor in Mathematics) _Cum Laude_
 
 May 1997
